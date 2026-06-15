@@ -1,0 +1,13 @@
+country_list=AD:AD/0, AE:AE/0, AG:AG/0, AI:AI/0, AL:AL/0, AN:AN/0, AR:AR/0, AS:AS/0, AT:AT/0, AU:AU/0, AW:AW/0, AZ:AZ/0, BA:BA/0, BD:BD/0, BE:BE/0, BG:BG/0, BH:BH/0, BM:BM/0, BN:BN/0, BR:BR/0, BS:BS/0, BY:BY/0, CA:CA/0, CH:CH/0, CL:CL/0, CN:CN/0, CO:CO/0, CR:CR/0, CY:CY/0, CZ:CZ/0, DE:DE/0, DK:DK/0, DZ:DZ/0, EC:EC/0, EE:EE/0, EG:EG/0, ES:ES/0, ET:ET/0, FI:FI/0, FR:FR/0, GB:GB/0, GD:GD/0, GE:GE/0, GF:GF/0, GP:GP/0, GR:GR/0, GT:GT/0, GU:GU/0, HK:HK/0, HR:HR/0, HU:HU/0, ID:ID/0, IE:IE/0, IL:IL/0, IN:IN/0, IS:IS/0, IT:IT/0, JO:JO/0, JP:JP/0, KH:KH/0, KR:KR/0, KW:KW/0, KY:KY/0, LA:LA/0, LB:LB/0, LI:LI/0, LK:LK/0, LS:LS/0, LT:LT/0, LU:LU/0, LV:LV/0, MA:MA/0, MC:MC/0, MD:MD/0, ME:ME/0, MK:MK/0, MN:MN/0, MO:MO/0, MQ:MQ/0, MR:MR/0, MT:MT/0, MU:MU/0, MV:MV/0, MW:MW/0, MX:MX/0, MY:MY/0, NI:NI/0, NL:NL/0, NO:NO/0, NP:NP/0, NZ:NZ/0, OM:OM/0, PA:PA/0, PE:PE/0, PG:PG/0, PH:PH/0, PL:PL/0, PR:PR/0, PT:PT/0, PY:PY/0, Q1:Q1/0, Q2:Q2/0, RE:RE/0, RO:RO/0, RS:RS/0, RU:RU/0, SE:SE/0, SG:SG/0, SI:SI/0, SK:SK/0, SM:SM/0, SN:SN/0, SV:SV/0, TH:TH/0, TN:TN/0, TR:TR/0, TT:TT/0, TW:TW/0, UA:UA/0, UG:UG/0, US:US/0, UY:UY/0, VA:VA/0, VE:VE/0, VG:VG/0, VI:VI/0, VN:VN/0, XZ:XZ/0, YT:YT/0, ZA:ZA/0, ZM:ZM/0
+PM=0
+dhd_master_mode=1
+pkt_filter_del=100, 102, 103, 104, 105
+pkt_filter_add=140 0 0 0 0xFFFFFFFFFFFF 0x000000000000
+insuspend=0x1
+suspend_mode=1
+dhd_msg_level=0x801
+dhd_console_ms=20
+android_msg_level=0x5
+wl_dbg_level=0x9
+dump_msg_level=0xf
+
